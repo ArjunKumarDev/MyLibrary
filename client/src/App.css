@@ -1,0 +1,12 @@
+.ui.card>.image:not(.ui)>img, .ui.cards>.card>.image:not(.ui)>img {
+  border: none;
+  height: 250px !important;
+}
+
+.ui.three.cards>.card {
+  width: calc(33.33333333% - 10em) !important;
+}
+
+a .header{
+  margin-top: .7rem !important;
+}
